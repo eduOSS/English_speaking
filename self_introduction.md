@@ -14,7 +14,5 @@
   * I'm also pretty heavily involved in the NJ branch of the Computer Science Teacher's Association (CSTA)
   * I lead the education team bocoup.
   * I am serious about getting phonegap into schools, as the best and easiest approach for programming for kids. 
-  * 
-  
 
-<!-- leleoleo should work -->
+<!-- In this way all text cannnot be seen when previewed or published -->
